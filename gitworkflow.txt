@@ -1,0 +1,9 @@
+git init – Initialize a new repository
+
+git add . – Stage changes
+
+git commit -m "Message" – Commit changes
+
+git push – Push to remote (e.g., GitHub)
+
+git pull – Pull latest changes from remote
